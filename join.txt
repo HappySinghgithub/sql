@@ -1,0 +1,3 @@
+	Hacker Rank:-	Placement (Join)
+
+select name from Students s,Friends f,Packages p1,Packages p2 where s.id=f.id and s.id=p1.id and f.friend_id=p2.id and p1.salary<p2.salary order by p2.salary;
