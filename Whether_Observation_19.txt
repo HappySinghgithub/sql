@@ -1,3 +1,8 @@
+  Hacker Rank:-   Whether Observation_Station_19
+              Euclidean Distance
+
+
+
 /*
 Enter your query here.
 */
